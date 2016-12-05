@@ -1,0 +1,21 @@
+Project Review
+
+John Murphy
+CSCI4229
+
+Still to add:
+  - use mouse to move camera 
+  - have ball follow camera and update 
+  - change a/d to strafe instead rotate
+  - add arch to ball animation 
+  - add skybox 
+  - make additional routs for targets
+  - create opposing targets to cover targets
+  - add scoring system and show on screen
+  - add football texture 
+
+Key bindings
+  t          throw football
+  w/s/a/d    First person controls          
+  0          Reset view angle
+  ESC        Exit
